@@ -1,0 +1,3 @@
+rootProject.name = 'RNGame-Animated'
+
+include ':app'
